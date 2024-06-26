@@ -1,6 +1,6 @@
 # Version 1.0: Spatial Mismatch and Systematic Prediction Error Corrected 
 #              cAscade Random Forests (SCARF) algorithm
-# 
+# Draft Version
 # Date: 26. Jun, 2024
 
 # Load library
