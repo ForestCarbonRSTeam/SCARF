@@ -10,4 +10,4 @@ Note: BC_SLR.R contains the algorithm code that SCARF_SLR.R needs to call, pleas
 
 It is a draft version and the clean version code and data will be updated at soon.
 
-Please cite the following paper: Fu, Y., Li, R., Zhu, Z., Xue, Y., Ding, H., Wang, X., Na, J., Xia, W., SCARF: A new algorithm for continuous estimation of biomass dynamics using machine learning and Landsat time series. Remote Sensing of Environment (revise).
+Please cite the following paper: Fu, Y., Li, R., Zhu, Z., Xue, Y., Ding, H., Wang, X., Na, J., Xia, W., SCARF: A new algorithm for continuous estimation of biomass dynamics using machine learning and Landsat time series. Remote Sensing of Environment, https://doi.org/10.1016/j.rse.2024.114348.
